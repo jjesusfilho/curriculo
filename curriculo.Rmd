@@ -1,0 +1,275 @@
+---
+title: "José de Jesus Filho"
+author: José de Jesus Filho
+date: "`r format(Sys.Date(), 'São Paulo, %d de %B de %Y')`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+---
+
+Aside
+================================================================================
+
+![José de Jesus Filho](img/jose.jpeg){width=80%}
+
+
+Contato {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> jose@consudata.com.br
+- <i class="fa fa-github"></i> [github.com/jjesusfilho](https://github.com/jjesusfilho)
+- <i class="fa fa-lattes"></i> [lattes](http://lattes.cnpq.br/5319480871817875)
+- <i class="fa fa-phone"></i> +55 11 985220210
+- Rua João Tibiriça, 900, Torre 5, apto 73, Lapa, São Paulo - SP.
+
+
+Habilidades {#skills}
+--------------------------------------------------------------------------------
+
+- Expecialista em análise de dados jurídicos aplicando modelos de aprendizado estatístico.
+
+- Experiência em computação na nuvem e arquitetura de fluxo de dados.
+
+- Proficiente em R, PostgreSQL, Python Bash, Linux e oauth2.
+
+
+Main
+================================================================================
+
+José de Jesus Filho {#title data-concise=true}
+--------------------------------------------------------------------------------
+
+### Pesquisa e ensino em jurimetria
+
+Assessor do Ministério Público de São Paulo e professor de jurimetria. Seus interesses em pesquisa incluem programação com R, Python, aprendizado estatístico, processamento de linguagem natural, bancos de dados SQL e noSQL, processos judiciais e segurança pública.
+
+Reúne as três habilidades fundamentais da ciência de dados: estatística, programação e conhecimento da matéria estudada: direito.
+
+Educação {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Universidade de São Paulo
+
+Pós-doutorado em jurimetria
+
+Ribeirão Preto, São Paulo
+
+2019
+
+O pós-doutorado consistiu em realizar uma análise jurimétrica da aplicação judicial da Lei Maria da Penha e a implementação do laborário Myrthes de Jurimetria.
+
+### Fundação Getulio Vargas
+
+Doutorado dem administração pública
+
+São Paulo, São Paulo
+
+2016
+
+Tese: Admninistração penitenciária
+
+### Universidade de Brasília
+
+Mestrado em direito penal  
+
+Brasília, Distrito Federal
+
+2012
+
+monografia: Monitoramento eletrônico de processados e condenados pela justiça criminal
+
+### Universidade Estadual Paulista
+
+Graduação em direito
+
+Franca, São Paulo
+
+1999
+
+
+Experiência em pesquisa {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+
+
+### Medidas Protetivas de Urgência
+
+CNJ-Avon
+
+Brasil
+
+2021-2022
+
+- Projeto de Diagnóstico e análise dos metadados do Banco Nacional de Dados do Poder Judiciário – DATAJUD sobre Medidas Protetivas de Urgência
+
+
+### Processos trabalhistas
+
+Insper 
+
+Brasil 
+
+2021-2022
+
+- Coleta e organização dados processuais de vários tribunais regionais trabalhistas julgados no período de 2015 a 2020.
+
+
+### Impactos da Covid na comunidade da USP
+
+USP
+
+Brasil
+
+2020-2022
+
+- Assessoria para implementação da arquitetura e da estruturação do fluxo de análise de dados quantitativos e qualitativos em favor do Escritório USP Mulheres.
+
+### Imprensa e Juridiário
+
+CNJ-Cebrap-Iddd  
+
+Brasil  
+
+2019 - 2020  
+
+- Influências recíprocas entre a imprensa jornalística impressa e
+digital e o sistema de justiça: papéis compartilhados na superlotação e superpopulação carcerária no Brasil.
+
+### Labped - USP
+
+FDRP-USP
+
+Ribeirão Preto - São Paulo
+
+2018 - 2019
+
+- Criação do laboratório de jurimetria da faculdade de direito da USP de Ribeirão Preto
+
+
+### Execução Penal no Rio de Janeiro
+
+Instituto Igarapé
+
+Rio de Janeiro, Rio de Janeiro
+
+2017 - 2018
+
+- Coleta e análise de 200 mil processos de execução penal para conhecer os determinantes das decisões judiciais
+
+### Atores do processo penal
+
+Centro de Investigação e Docência Econômicas
+
+São Paulo-México.
+
+2018 - 2019
+
+- Coleta e análise de 1250 processos judiciais.
+
+
+### Diagnóstico dos serviços prisionais
+
+Ipea-Depen
+
+Nordeste, Brasil
+
+2015-2016
+
+Pesquisador assistente para a pesquisa sobre serviços prisionais solicitada pelo IPEA e pelo Depen.
+
+### Pesquisa sobre pessoas (adultas) privadas de liberdade: histórias de vida e devido processo legal
+
+FGV-CIDE
+
+São Paulo, SP
+
+2013
+
+Estudar e sistematizar em um conjunto de indicadores os processos sociais e individuais que levaram esta população a entrar e permanecer numa carreira delitiva. 
+
+
+### Atualização de Processos Políticos e Institucionais para a Implantação do Plano Nacional de Educação em Direitos Humanos
+
+Secretaria Nacional de Direitos Humanos - OEI/BRA/08/006
+
+Brasília, Distrito Federal
+
+2013
+
+Consultoria especializada para adaptar e atualizar o manual Monitoramento de Locais de Detenção
+
+### Uma década é pouco: tortuosos caminhos para a consolidação de uma política de combate e prevenção da tortura no Brasil.
+
+5º Relatório Nacional de Direitos Humanos
+
+2012
+
+
+### Defesa de Presos Provisórios em Centros de Detenção em São Paulo
+
+Pastoral Carcerária - ITTC
+
+São Paulo, SP
+
+2010-2011
+
+O projeto foi uma combinação de defesa legal de presos provisórios e pesquisa voltada a políticas públicas para a redução da população de presos provisórios
+
+### Relatório sobre Tortura em Locais de Privação de Liberdade
+
+Pastoral Carcerária
+
+São Paulo, SP
+
+2007 - 2010
+
+Acesso: [Relatório tortura](https://carceraria.org.br/wp-content/uploads/2012/10/Relatorio_tortura_revisado1.pdf)
+
+###  Contribuição para a compreensão e a prevenção da tortura no Brasil
+
+Secretaria de Direitos Humanos (SDH/PR)
+
+Brasília, Distrito Federal
+
+2010
+
+Acesso: [Tortura](https://www.gov.br/mdh/pt-br/prevencao-e-combate-a-tortura/2010-tortura.pdf)
+
+
+
+Experiência profissional {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Jurimetrista
+
+Ministério Público de São Paulo
+
+São Paulo, São Paulo
+
+Jan, 2022 - atual
+
+
+
+### Cientista de dados
+
+Associação Brasileira de Jurimetria
+
+São Paulo, São Paulo
+
+Out, 2017 - Dez, 2018
+
+
+### Prevenção da Tortura
+
+Associação para a Prevenção da Tortura
+
+Genebra, Suíça
+
+Mar, 2012 - Mar, 2018
+
+### Advogado
+
+Pastoral Carcerária do Brasil
+
+Ago, 2003 - Abr, 2014
