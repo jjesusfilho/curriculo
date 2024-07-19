@@ -17,11 +17,11 @@ Aside
 Contato {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-envelope"></i> jose@consudata.com.br
+- <i class="fa fa-envelope"></i> jjfilho@pucsp.br
 - <i class="fa fa-github"></i> [github.com/jjesusfilho](https://github.com/jjesusfilho)
 - <i class="fa fa-lattes"></i> [lattes](http://lattes.cnpq.br/5319480871817875)
 - <i class="fa fa-phone"></i> +55 11 985220210
-- Rua João Tibiriça, 900, Torre 5, apto 73, Lapa, São Paulo - SP.
+- Rua Serra de Botucatu, 83, Osasco - SP
 
 
 Habilidades {#skills}
@@ -31,7 +31,7 @@ Habilidades {#skills}
 
 - Experiência em computação na nuvem e arquitetura de fluxo de dados.
 
-- Proficiente em R, PostgreSQL, Python Bash, Linux e oauth2.
+- Proficiente em R, PostgreSQL, SQL Server e Python.
 
 
 Main
@@ -42,7 +42,7 @@ José de Jesus Filho {#title data-concise=true}
 
 ### Pesquisa e ensino em jurimetria
 
-Assessor do Ministério Público de São Paulo e professor de jurimetria. Seus interesses em pesquisa incluem programação com R, Python, aprendizado estatístico, processamento de linguagem natural, bancos de dados SQL e noSQL, processos judiciais e segurança pública.
+Assessor do Ministério Público de São Paulo e professor de jurimetria na PUCSP. Seus interesses em pesquisa incluem programação com R, Python, aprendizado estatístico, processamento de linguagem natural, bancos de dados SQL e noSQL, processos judiciais e segurança pública.
 
 Reúne as três habilidades fundamentais da ciência de dados: estatística, programação e conhecimento da matéria estudada: direito.
 
@@ -91,7 +91,15 @@ Franca, São Paulo
 Experiência em pesquisa {data-icon=laptop}
 --------------------------------------------------------------------------------
 
+### Diferenças remuneratórias entre juízes e juízas
 
+[Revista de Administração Pública](https://periodicos.fgv.br/rap/article/view/85641/80808)
+
+São Paulo, São Paulo 
+
+2022
+
+- O propósito deste estudo foi testar a hipótese de que há clara diferença entre as remunerações médias percebidas por juízes e juízas de 8 tribunais de justiça brasileiros. Por meio da técnica de matching, realizou-se um pareamento entre juízes e juízas condicionado ao cargo, ao tempo de magistratura, ao mês e ao ano da remuneração, bem como ao tribunal. As diferenças nas médias remuneratórias persistem mesmo após o pareamento, o que pode ser explicado pelos mediadores de gênero, que operam gerando melhores oportunidades para homens em desfavor das mulheres.
 
 ### Medidas Protetivas de Urgência
 
@@ -241,14 +249,21 @@ Acesso: [Tortura](https://www.gov.br/mdh/pt-br/prevencao-e-combate-a-tortura/201
 Experiência profissional {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
-### Jurimetrista
+### Professor
+
+Pontifícia Universidade Católica de São Paulo (PUCSP)
+
+São Paulo, São Paulo
+
+Mar, 2023 - atual
+
+### Assessor para jurimetria
 
 Ministério Público de São Paulo
 
 São Paulo, São Paulo
 
 Jan, 2022 - atual
-
 
 
 ### Cientista de dados
